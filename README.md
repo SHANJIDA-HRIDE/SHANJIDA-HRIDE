@@ -9,6 +9,16 @@
 
 - 📫 How to reach me **shanjidahride1997@gmail.com**
 
+  ## Skills
+
+- **Software Testing**: Manual and automated testing, regression testing, acceptance testing, and performance testing.
+- **Test Automation**: Selenium for test automation frameworks.
+- **CI/CD**: Experience in integrating testing into continuous integration/continuous deployment pipelines.
+- **Issue Tracking**: Jira for efficient issue tracking and project management.
+- ## Projects
+
+- [OpenCart_ManualTesting](https://github.com/SHANJIDA-HRIDE/Performance_Testing_OpenCart/tree/master): OpenCart Manual Testing is a comprehensive manual testing project focused on testing an e-commerce platform called OpenCart. OpenCart is a popular open-source e-commerce software used by online merchants to set up their online stores quickly and efficiently.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shanjida-hride-b38222173/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shanjida-hride-b38222173/" height="30" width="40" /></a>
