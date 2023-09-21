@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shanjida Hride</h1>
-<h1 align="center">Software Quality Assurance Engineer</h1>
+<h1 align="center">⚡️ Software Quality Assurance Engineer</h1>
 <h3 align="center">🧠 I am a passionate Software Quality Assurance Engineer with a strong background in ensuring the quality and reliability of software applications. My expertise includes creating comprehensive test plans, executing tests, automating testing processes, and ensuring seamless user experiences.</h3>
 
 - 🔭 I’m currently working on [Performance Testing](https://github.com/SHANJIDA-HRIDE/Performance_Testing_OpenCart/tree/master)
