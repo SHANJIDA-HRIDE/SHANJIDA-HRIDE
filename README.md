@@ -1,12 +1,14 @@
-<h1 align="center">Hi 👋, I'm Shanjida Hride</h1>
-<h1 align="center">⚡️ Software Quality Assurance Engineer</h1>
+
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%233B3838&size=25&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Shanjida+Hride" />
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=250&size=30&pause=1000&color=&width=1200&height=50&lines=A+Passionate+SQA+Engineer" alt="Typing SVG" /></a></h3>
+<!-- <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"> -->
 <h3 align="center">🧠 I am a passionate Software Quality Assurance Engineer with a strong background in ensuring the quality and reliability of software applications. My expertise includes creating comprehensive test plans, executing tests, automating testing processes, and ensuring seamless user experiences.</h3>
 
 - 🔭 I’m currently working on [Performance Testing](https://github.com/SHANJIDA-HRIDE/Performance_Testing_OpenCart/tree/master)
 
 - 🌱 I’m currently learning **selenium WebDriver Automation Testing**
 
-- 💬 Ask me about **Manual Testing, API Testing, Performance Testing**
+- 💬 Ask me about **Manual Testing, API Testing, and Performance Testing**
 
 - 📫 How to reach me **shanjidahride1997@gmail.com**
 
