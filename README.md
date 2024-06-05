@@ -3,7 +3,6 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=250&size=30&pause=1000&color=&width=1200&height=50&lines=A+Passionate+SQA+Engineer" alt="Typing SVG" /></a></h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"> -->
 <h3 align="center">🧠 I am a passionate Software Quality Assurance Engineer with a strong background in ensuring the quality and reliability of software applications. My expertise includes creating comprehensive test plans, executing tests, automating testing processes, and ensuring seamless user experiences.</h3>
-
 - 🔭 I’m currently working on [Performance Testing](https://github.com/SHANJIDA-HRIDE/Performance_Testing_OpenCart/tree/master)
 
 - 🌱 I’m currently learning **selenium WebDriver Automation Testing**
@@ -35,3 +34,4 @@
 
 <h3 align="left"><p>Feel free to explore my repositories and get in touch! Let's discuss SQA and collaborate on exciting projects. </p></h3>
 
+![Untitled design](https://github.com/SHANJIDA-HRIDE/SHANJIDA-HRIDE/assets/62147630/b4134137-76a8-4f61-8b3f-714586cbe259)
